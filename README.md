@@ -1,6 +1,5 @@
 # bentra_ai
 
-CHANGE
 > An AI-themed markdown playground for testing rendering across your SaaS UI. 🤖
 
 ![AI Hero Banner](https://placehold.co/1200x360/0f172a/67e8f9?text=AI+Markdown+Render+Test)
